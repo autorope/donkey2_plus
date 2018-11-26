@@ -4,7 +4,7 @@ A donkeycar that uses a WiiU joystic and the Sombrero hat.
 
 
 To create a new car with this setup do this...
-```
+```bash
 git clone git@github.com:autorope/donkey2_plus.git
 virtualenv env --python=python3
 source env/bin/activate
