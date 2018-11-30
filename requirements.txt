@@ -5,4 +5,4 @@
 -e git://github.com/autorope/donkeypart_web_controller@0.1#egg=donkeypart_web_controller
 -e git://github.com/autorope/donkeypart_tub@0.1#egg=donkeypart_tub
 -e git://github.com/autorope/donkeypart_common@0.1#egg=donkeypart_common
--e git://github.com/autorope/donkeypart_bluetooth_game_controller@0.1#egg=donkeypart_bluetooth_game_controller
+-e git://github.com/autorope/donkeypart_bluetooth_game_controller@0.1.1#egg=donkeypart_bluetooth_game_controller
